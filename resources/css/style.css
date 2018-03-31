@@ -13,7 +13,7 @@ h1 {
   color: White;
 }
 
-p {
+a {
   font-size: 18px;
   font-weight: bold;
   color: White;
@@ -21,4 +21,10 @@ p {
 
 a, a:hover, a:active, a:visited {
   color: white;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: White;
 }
